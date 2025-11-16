@@ -16,7 +16,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<p>Navegue pelos nossos produtos</p>",
+            "text": "<p>Navegue pelos nossos</p>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
